@@ -25,3 +25,15 @@ Enter how much you'd like to deposit.
 Choose how many lines to bet on (1–3).
 Set your bet per line.
 Spin and see if you win!
+
+🔧 Technologies Used
+Python 3.10+
+Standard Library (random, input, print)
+📚 What I Learned
+How to structure a Python program using functions
+Simulating randomness with random.choice()
+Basic terminal UI and input handling
+How to use Git and GitHub for version control
+
+🚀 Future Improvements
+Add a payout table and win animations
